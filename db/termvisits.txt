@@ -1,0 +1,1 @@
+[{'date': '2018-08-10', 'email': 'rmok@mit.edu'}, {'date': '2018-08-19', 'email': 'gauravc@mit.edu'}, {'date': '2018-08-22', 'email': 'yasushis@mit.edu'}, {'date': '2018-08-22', 'email': 'damonj@mit.edu'}, {'date': '2018-08-26', 'email': 'usama@mit.edu'}]
