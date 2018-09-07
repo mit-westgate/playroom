@@ -156,10 +156,9 @@ else:
    </h3>
    <hr>
    Your Westgate Playroom application has been successfully completed
-   and submitted. Please bring $%(fee)s to %(name)s (the Parents' Resource
-   Coordinators) in apartment %(apt)s and they will give you a key. You can
-   contact them at %(phone)s or
-   <a href="mailto:westgate-prc@mit.edu">westgate-prc@mit.edu</a>
+   and submitted. <strong> The application has not been completed! </strong>
+   Please follow the instructructions for further steps.
+   You can contact <a href="mailto:westgate-prc@mit.edu">westgate-prc@mit.edu</a>
    if you have additional questions.
    <hr>
    <div class="footer">
